@@ -1,16 +1,18 @@
-## Hi there 👋
+Hi, I'm Rp-ics
 
-<!--
-**Rp-ics/Rp-ics** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a Python developer focused on building practical tools, backend services
+and automation scripts.
 
-Here are some ideas to get you started:
+## What I work with
+- Python
+- API & FastApi
+- Godot Engine 3.x-4.x
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Projects
+Here are some projects that represent how I work:
+- [Telegram Bot with AI](https://github.com/Rp-ics/Telegram-AI-Bot)
+- [Instagram Automation](https://github.com/Rp-ics/Instagram-Automation-Bot)
+
+## What I'm aiming for
+I'm building my GitHub as a professional portfolio to showcase real-world
+Python projects and clean code.
