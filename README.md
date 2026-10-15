@@ -1,5 +1,5 @@
 # Hi, I'm Rpx
-
+## Python & Game developer
 I build backends, automations and indie games. I teach programming and make 32x32 pixel art.
 
 Co-founder of AVGVSTO-USB. I published Void Phantom on Steam. I write APIs, bots and tools that solve real problems.
