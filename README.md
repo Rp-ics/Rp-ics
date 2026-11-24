@@ -1,47 +1,52 @@
-# Just Dev | Data Analyst & Software Engineer
+# Hi, I'm Rpx
+## Python & Game developer
+I build backends, automations and indie games. I teach programming and make 32x32 pixel art.
 
-**Co-Founder at avgvstousb.com | Python Developer | Aspiring Data Analyst**
+Co-founder of AVGVSTO-USB. I published Void Phantom on Steam. I write APIs, bots and tools that solve real problems.
 
-## Professional Summary
-Software engineer and entrepreneur with a strong foundation in Python development and system architecture. Currently transitioning into Data Analytics, leveraging extensive experience in Excel and programming logic to master SQL databases and advanced data manipulation. Focused on building production-grade data pipelines and deriving actionable business insights through rigorous statistical analysis.
+## What I do
 
-## Core Competencies
-*   **Programming:** Python (Variables, Control Flow, Functions, Data Structures), GDScript.
-*   **Data Analysis:** Excel (Advanced), Pandas (Learning), NumPy (Learning).
-*   **Database Management:** SQL (In Progress), Database Design Principles.
-*   **Engineering:** Version Control (Git/GitHub), Modular Code Architecture, Defensive Programming.
+Backend and APIs
+I design and build performant APIs with FastAPI. I handle complex data and workflows with SQL, Pandas and NumPy.
 
-## Featured Projects
+Automation and Bots
+I build interactive Telegram bots and Python automations. I integrate external APIs like OpenAI and Groq to create useful tools, not toys.
 
-### [Geraci](https://github.com/Rp-ics/Geraci)
-*   **Description:** A Python-based project demonstrating core programming logic and data structure manipulation.
-*   **Tech Stack:** Python, Lists, Dictionaries, File I/O.
-*   **Key Focus:** Implementation of efficient algorithms for data processing and structured output generation.
+Mentorship
+I teach programming. I take people from the basics to production code, explaining things in a simple way.
 
-### [Godot Engine GlobalTweens](https://github.com/Rp-ics/Godot-Engine-GlobalTweens)
-*   **Description:** A utility extension for the Godot Engine focused on animation and state management.
-*   **Tech Stack:** GDScript, Godot Engine.
-*   **Key Focus:** Object-oriented programming, event-driven architecture, and performance optimization for real-time applications.
+Game Dev and Pixel Art
+I develop with Godot 4.x and draw 32x32 pixel art. I published a game on Steam.
 
-### [PasswordWriter](https://github.com/Rp-ics/PasswordWriter)
-*   **Description:** A security-focused tool for generating and managing complex password structures.
-*   **Tech Stack:** Python, Cryptography libraries.
-*   **Key Focus:** Secure randomization, string manipulation, and user input validation.
+## Stack
 
-## Entrepreneurial Experience
+Languages: Python, SQL
+Frameworks and Libraries: FastAPI, Pandas, NumPy, BeautifulSoup, Selenium
+AI and Bots: OpenAI API, Groq API, Telegram Bot API
+Game Dev: Godot Engine 4.x
 
-**Co-Founder | avgvstousb.com**
-*   Leading technical and strategic initiatives for a hardware/software integration platform.
-*   Responsible for data-driven decision-making regarding product development and market analysis.
-*   Applying analytical skills to optimize operational workflows and user engagement metrics.
+## Featured projects
 
-## Current Learning Path
-*   **SQL & Database Management:** Mastering relational database design, complex queries (JOINs, Subqueries), and data normalization.
-*   **Advanced Python for Data:** Transitioning from basic scripting to vectorized operations using Pandas and Polars.
-*   **Data Visualization:** Learning to create executive-ready dashboards using Plotly and Seaborn.
+AVGVSTO
+[avgvstousb.com](https://avgvstousb.com/)
+Python encryption tool that binds data to a physical USB drive. AES-256 and hardware authentication.
+
+Void Phantom
+[Steam](https://store.steampowered.com/app/3266180/Void_Phantom/) | [Website](https://rpxgames.win/void)
+My indie game on Steam. Hand-made 32x32 pixel art.
+
+GlobalTweens
+Lightweight async tween library for Godot 4.x. Simple and flexible.
+
+Telegram AI Bot
+Chatbot with Groq API (LLaMA3/Mixtral). Context-aware conversations and image analysis.
+
+Instagram Automation Bot
+Python automation with simulated human behavior and safety features. For educational purposes only.
 
 ## Contact
-*   **Website:** [avgvstousb.com](https://rpxgames.win)
-*   **Website:** [avgvstousb.com](https://avgvstousb.com)
 
----
+Website: [rpxgames.win](https://rpxgames.win/)
+Itch.io: [r-px.itch.io](https://r-px.itch.io/)
+
+From teaching kids the basics of computational thinking to building complex backends. I like learning and solving new problems.
